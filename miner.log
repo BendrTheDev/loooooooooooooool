@@ -1,0 +1,16 @@
+2023-09-08 08:56:46,845 [*] Subscribe thread started.
+2023-09-08 08:56:50,856 [*] Bitcoin Miner Thread Started
+2023-09-08 08:56:52,596 [*] Working to solve block with height 806709
+2023-09-08 08:58:24,517 [*] Subscribe thread()
+2023-09-08 08:58:24,599 [WinError 10053] Software v hostitelském poèítaèi ukonèil vytvoøené pøipojení
+2023-09-08 09:42:05,580 [*] Subscribe thread()
+2023-09-08 09:42:05,626 [Errno 11001] getaddrinfo failed
+2023-09-08 09:42:07,974 [*] Subscribe thread()
+2023-09-08 09:42:08,005 [Errno 11001] getaddrinfo failed
+2023-09-08 09:42:21,228 [*] Subscribe thread()
+2023-09-08 09:42:21,259 [Errno 11001] getaddrinfo failed
+2023-09-08 09:42:34,513 [*] Subscribe thread()
+2023-09-08 09:42:34,544 [Errno 11001] getaddrinfo failed
+2023-09-08 09:48:15,332 [*] Subscribe thread started.
+2023-09-08 09:48:19,335 [*] Bitcoin Miner Thread Started
+2023-09-08 09:48:20,361 [*] Working to solve block with height 806713
